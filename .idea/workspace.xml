@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07ba2b70-641b-4007-bb34-3808f2d4f11e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WRcfjjrrfjURvQVNuIYesfqIj5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TestAutomation" />
+  </component>
+  <component name="RunManager" selected="TestNG.userManagement">
+    <configuration name="toDoList" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SanityTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SanityTest" />
+      <option name="MAIN_CLASS_NAME" value="SanityTest.toDoList" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="toDoList.test01_createTask" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SanityTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SanityTest" />
+      <option name="MAIN_CLASS_NAME" value="SanityTest.toDoList" />
+      <option name="METHOD_NAME" value="test01_createTask" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="userManagement" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject01" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SanityTest.userManagement" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="userManagement.test02_createNewUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SanityTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SanityTest" />
+      <option name="MAIN_CLASS_NAME" value="SanityTest.userManagement" />
+      <option name="METHOD_NAME" value="test02_createNewUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="userManagement.test03_deleteUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SanityTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SanityTest" />
+      <option name="MAIN_CLASS_NAME" value="SanityTest.userManagement" />
+      <option name="METHOD_NAME" value="test03_deleteUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.userManagement" />
+        <item itemvalue="TestNG.toDoList" />
+        <item itemvalue="TestNG.toDoList.test01_createTask" />
+        <item itemvalue="TestNG.userManagement.test03_deleteUser" />
+        <item itemvalue="TestNG.userManagement.test02_createNewUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07ba2b70-641b-4007-bb34-3808f2d4f11e" name="Default Changelist" comment="" />
+      <created>1579115952413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579115952413</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1579564274452">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1579564274452" />
+    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579127855900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1579127855900" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1579723134285">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579723134285" />
+    <state width="1493" height="133" key="GridCell.Tab.0.bottom" timestamp="1579851819211">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="133" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579851819211" />
+    <state width="1493" height="133" key="GridCell.Tab.0.center" timestamp="1579851819211">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="133" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579851819211" />
+    <state width="1493" height="133" key="GridCell.Tab.0.left" timestamp="1579851819211">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="133" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579851819211" />
+    <state width="1493" height="133" key="GridCell.Tab.0.right" timestamp="1579851819211">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="133" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579851819211" />
+    <state width="1493" height="2" key="GridCell.Tab.1.bottom" timestamp="1579851415515">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579851415515" />
+    <state width="1493" height="2" key="GridCell.Tab.1.center" timestamp="1579851415515">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1579851415515" />
+    <state width="1493" height="2" key="GridCell.Tab.1.left" timestamp="1579851415515">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1579851415515" />
+    <state width="1493" height="2" key="GridCell.Tab.1.right" timestamp="1579851415515">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1579851415515" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1579803567390">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1579803567390" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1579803565549">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1579803565549" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/workFlow/webFlow.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/workFlow/mobileFlow.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<environment>
+    <!--TimeOut-->
+    <timeOut>5</timeOut>
+
+    <!--Platform-->
+    <platformName>web</platformName>
+
+    <!--Web platform-->
+    <urlLogin>https://opensource-demo.orangehrmlive.com/?fbclid=IwAR0kgxFf6pP1XLmFrLKaTZZ3YXpv1BbqMKJxGtd-6XHudVouwaQU5YJAh9g</urlLogin>
+    <browserName>chrome</browserName>
+    <imageRepo>./imageRepository/</imageRepo>
+
+    <!--Mobile-->
+    <UDID>00b60b400904</UDID>
+    <appPackage>com.splendapps.splendo</appPackage>
+    <appActivity>.MainActivity</appActivity>
+
+    <!--Mobile inputs-->
+    <taskName>My first task</taskName>
+    <yearIndex>3</yearIndex>
+    <monthName>פברואר</monthName>
+
+    <!--Web Inputs-->
+    <!--Login-->
+    <userName>Admin</userName>
+    <password>admin123</password>
+
+    <!--Add new user-->
+    <employeeRole>ESS</employeeRole>
+    <employeeName>Fiona Grace</employeeName>
+    <employeeUserName>711e3347e7443e7</employeeUserName>
+    <employeeStatus>Enabled</employeeStatus>
+    <employeePassword>123wer@EF1231E23</employeePassword>
+</environment>
